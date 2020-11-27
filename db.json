@@ -1,4 +1,4 @@
- [{
+{[{
             "userName": "asadrul",
             "userPwd": "arul@1234"
         },
@@ -19,3 +19,4 @@
             "userPwd": "naviii"
         }
     ]
+}
