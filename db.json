@@ -1,43 +1,23 @@
-{"employee":[{
-			"userName": "asadrul",
-			"userPwd": "arul@1234"
-		},
-		{
-			"userName": "hariswh",
-			"userPwd": "harish@12345"
-		},
-		{
-			"userName": "Aksasdsad13",
-			"userPwd": "asdasd"
-		},
-		{
-			"userName": "rohan",
-			"userPwd": "Akasdasd#"
-		},
-		{
-			"userName": "Navin",
-			"userPwd": "naviii"
-		}
-	],
- "emp":[{
-			"userName": "asadrul",
-			"userPwd": "arul@1234"
-		},
-		{
-			"userName": "hariswh",
-			"userPwd": "harish@12345"
-		},
-		{
-			"userName": "Aksasdsad13",
-			"userPwd": "asdasd"
-		},
-		{
-			"userName": "rohan",
-			"userPwd": "Akasdasd#"
-		},
-		{
-			"userName": "Navin",
-			"userPwd": "naviii"
-		}
-	]
+{
+    "employees": [{
+            "userName": "arul",
+            "userPwd": "arul@1234"
+        },
+        {
+            "userName": "username",
+            "userPwd": "pass@1234"
+        },
+        {
+            "userName": "navin",
+            "userPwd": "navin@1234"
+        },
+        {
+            "userName": "smith",
+            "userPwd": "smith@1234"
+        },
+        {
+            "userName": "admin",
+            "userPwd": "admin@123"
+        }
+    ]
 }
